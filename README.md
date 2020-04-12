@@ -11,6 +11,7 @@ Dillinger uses a number of open source projects to work properly:
 ### Pasos:
 
 **1.**	Tener el proyecto base para el ejemplo tomado de [sprint boot][Sprint Boot] en GitHub.
+
 **2.**	Instalar sonar desde docker.  Sino está instalado instalarlo desde [docker][Docker]
 
 ```sh
